@@ -1,0 +1,15 @@
+{"id": "q001", "question": "Listeria monocytogenes 在冷藏温度下能否生长？", "reference_answer": "可以。Listeria monocytogenes 是嗜冷菌，能够在冷藏温度（通常 0–8°C）下存活并缓慢生长，这是它在即食食品中成为重要食品安全风险的主要原因之一。", "question_type": "factual", "difficulty": "easy"}
+{"id": "q002", "question": "低水分食品中 Salmonella 的存活主要受哪些因素影响？", "reference_answer": "主要受水分活度（a_w）、温度和食品成分（如脂肪、蛋白质含量）影响。低水分活度会显著增强 Salmonella 的热耐受性和长期存活能力。", "question_type": "factor", "difficulty": "medium"}
+{"id": "q003", "question": "水分活度（water activity）如何影响细菌的热耐受性？", "reference_answer": "水分活度降低时，细菌的热耐受性通常增强。在低 a_w 条件下，需要更高温度或更长时间才能达到相同的灭活效果，D值往往会增大。", "question_type": "factor", "difficulty": "medium"}
+{"id": "q004", "question": "什么是 D-value？它在预测微生物学中有什么意义？", "reference_answer": "D-value（小数减少时间）是指在特定温度下，将微生物数量减少 90%（即减少一个对数单位）所需的时间。它是描述热灭活动力学的核心参数，用于设计热加工工艺和评估杀菌效果。", "question_type": "definition", "difficulty": "medium"}
+{"id": "q005", "question": "什么是 z-value？", "reference_answer": "z-value 是指使 D-value 变化 10 倍所需的温度变化量（单位通常为°C）。它反映微生物热致死对温度变化的敏感程度，常与 D-value 一起用于热加工计算。", "question_type": "definition", "difficulty": "medium"}
+{"id": "q006", "question": "什么是预测微生物学（Predictive Microbiology）？", "reference_answer": "预测微生物学是利用数学模型描述和预测微生物在不同环境条件（温度、pH、水分活度等）下生长、存活或灭活行为的学科，广泛应用于食品安全风险评估和货架期预测。", "question_type": "definition", "difficulty": "easy"}
+{"id": "q007", "question": "温度和 pH 如何共同影响 Listeria 的存活？", "reference_answer": "低温和接近中性的 pH 有利于 Listeria 存活甚至生长；而较高温度结合低 pH 会显著抑制其生长并加速灭活。两者常作为栅栏因子共同控制 Listeria。", "question_type": "factor", "difficulty": "hard"}
+{"id": "q008", "question": "为什么在低水分食品中细菌更难被热杀死？", "reference_answer": "低水分活度会提高细菌的热耐受性，使细胞膜和蛋白质在加热时更稳定，从而导致 D值增大，需要更强的热处理才能达到相同的灭活效果。", "question_type": "factor", "difficulty": "medium"}
+{"id": "q009", "question": "在食品安全中，为什么 Listeria monocytogenes 特别受关注？", "reference_answer": "因为它能在冷藏温度下生长、对多种环境压力有较强耐受性，且感染后对孕妇、老年人等易感人群可导致严重后果（如败血症、脑膜炎、流产）。", "question_type": "factual", "difficulty": "easy"}
+{"id": "q010", "question": "预测微生物学模型在食品安全风险评估中有什么作用？", "reference_answer": "它可用于预测微生物在食品生产、储存和流通各环节的数量变化，帮助评估暴露水平、设定加工参数，并为风险管理和法规制定提供科学依据。", "question_type": "factual", "difficulty": "medium"}
+{"id": "q011", "question": "食品加工中常用哪些参数来描述细菌的热灭活？", "reference_answer": "最常用的是 D-value（特定温度下的小数减少时间）和 z-value（D值变化10倍所需的温度变化）。有时还会使用 F值等综合致死率参数。", "question_type": "factual", "difficulty": "medium"}
+{"id": "q012", "question": "Salmonella 在干燥食品中为什么能长期存活？", "reference_answer": "在低水分活度环境下，Salmonella 代谢减缓并进入更强的胁迫耐受状态，从而能在干燥食品中存活数周甚至数月，显著增加污染风险。", "question_type": "factor", "difficulty": "medium"}
+{"id": "q013", "question": "什么是小数减少时间？", "reference_answer": "小数减少时间就是 D-value，指在给定温度下使微生物数量减少 90%（一个对数循环）所需的时间，是热灭活动力学的基本参数。", "question_type": "definition", "difficulty": "easy"}
+{"id": "q014", "question": "pH 对 Salmonella 灭活有什么影响？", "reference_answer": "较低的 pH（酸性条件）通常会加速 Salmonella 的灭活，并降低其热耐受性；pH 常与温度、水分活度等因子联合作用，影响其存活和灭活速率。", "question_type": "factor", "difficulty": "medium"}
+{"id": "q015", "question": "预测微生物学中常见的环境影响因素有哪些？", "reference_answer": "最常见的是温度、pH、水分活度（a_w），此外还有盐浓度、防腐剂、气体环境（如真空或气调）等，这些因子常被纳入生长或灭活模型。", "question_type": "factual", "difficulty": "easy"}
